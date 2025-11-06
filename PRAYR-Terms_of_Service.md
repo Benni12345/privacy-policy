@@ -1,7 +1,7 @@
 # PRAYR – Terms of Service
 
 **Version:** 1.0  
-**Last Updated:** [Insert Date]  
+**Last Updated:** 06.11.2025
 **Developer:** PRAYR by BenniDev (Germany)  
 **Platforms:** iOS and Android  
 
