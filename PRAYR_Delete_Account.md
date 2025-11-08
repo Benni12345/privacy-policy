@@ -14,3 +14,9 @@
 
 5. **Confirm deletion.**  
    A confirmation modal will appear. Tap **Delete Account** again to permanently delete your account.
+
+## Request Data Deletion
+
+If you would like to request deletion of your personal data, you can do so here: 
+Write me a mail:
+👉 [Request Data Deletion](mailto:bennifrank187@gmail.com)
